@@ -8,16 +8,13 @@ Image Upload: Upload receipt images from your device to extract relevant details
 - PaddleOCR Integration: Uses PaddleOCR for robust text extraction from receipt images.
 
 ## Technologies Used ⚙️
-Python
-Flet: For building the UI.
-OpenCV: For capturing images from the webcam and image processing.
-PaddleOCR: For Optical Character Recognition (OCR).
-Google Generative AI (Gemini Model): For extracting and formatting key details from the OCR results.
-PIL (Pillow): For image processing and conversion.
-NumPy: For handling image data.
-Threading: For running background tasks such as webcam feed capture.
+- Python
+- Flet: For building the UI.
+- OpenCV: For capturing images from the webcam and image processing.
+- PaddleOCR: For Optical Character Recognition (OCR).
+- Google Generative AI (Gemini Model): For extracting and formatting key details from the OCR results.
 
-## Installation
+## Installation ⏬
 ### Prerequisites
 1. Google Cloud API key (for Google Generative AI) - Get your API from [Google AI Studio](https://ai.google.dev/aistudio)
 1. Clone the Repository
