@@ -3,7 +3,9 @@
 
 ## Features 💻
 - Real-time Image Capture: Capture images using your device's webcam to extract text.
-Image Upload: Upload receipt images from your device to extract relevant details.
+![Demo 1](assets/1.gif)
+- Image Upload: Upload receipt images from your device to extract relevant details.
+![Demo 2](assets/2.gif)
 - Google Generative AI Integration: Automatically processes the OCR-extracted text using the Gemini model to identify and format the receipt details (e.g., address, business name, TIN number, etc.).
 - PaddleOCR Integration: Uses PaddleOCR for robust text extraction from receipt images.
 
