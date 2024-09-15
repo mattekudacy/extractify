@@ -11,7 +11,7 @@
 
 ## Technologies Used ⚙️
 - Python
-- Flet: For building the UI.
+- Flet: For building the UI - [Flet Docs](https://flet.dev/docs/)
 - OpenCV: For capturing images from the webcam and image processing.
 - PaddleOCR: For Optical Character Recognition (OCR).
 - Google Generative AI (Gemini Model): For extracting and formatting key details from the OCR results.
